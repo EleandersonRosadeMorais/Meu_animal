@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+    align-items: center; 
+    gap: 1em;
+}
+img {
+    width: 15em;
+    height: 15em;
+    border-radius: 20%;
+    
+}
+p {
+    font-size: 20px; 
+    color: #ffffff;
+}
+body { 
+  font-family: "Courier New", Courier, monospace;
+  padding: 1em;
+  background-color: blue;
+  color: white;
+  text-align: justify;
+}
+h1{
+    text-align: center;
+    font-size: 80px;
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+}
+li{
+    font-size: 15px;
+}
