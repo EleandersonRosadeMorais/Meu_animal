@@ -11,8 +11,6 @@ Esse projeto é simples, ele envolve descrever um pato e suas curiosidades.
 
 ## Como visualizar este projeto👀
 
-asdabsdawdawdawdawvdawdaw
-wadvawdva
-wdvawd
+>irei finalizar quando chegar em casa<
 
 Créditos da imagem: https://blog.polipet.com.br/pato-de-estimacao/
