@@ -25,4 +25,4 @@ Esse projeto é simples, ele envolve descrever um pato e suas curiosidades.
    >Executar o Website: depois de acessar o projeto, use o comando "start" para executar a página do Website no seu navegador.  
    `start index.html`
    
-Créditos da imagem: https://blog.polipet.com.br/pato-de-estimacao/
+Créditos da imagem: [Clique aqui](https://blog.polipet.com.br/pato-de-estimacao/)
